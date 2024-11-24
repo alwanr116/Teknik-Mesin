@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teknik Mesin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        section {
+            padding: 2rem;
+            max-width: 800px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Materi Teknik Mesin</h1>
+    </header>
+    <section>
+        <h2>Selamat Datang!</h2>
+        <p>Website ini menyediakan materi dasar teknik mesin, termasuk:</p>
+        <ul>
+            <li>Thermodinamika</li>
+            <li>Teknologi Material</li>
+            <li>Desain Mekanik</li>
+            <li>Manufaktur</li>
+        </ul>
+        <p>Pelajari lebih lanjut dan tingkatkan pemahaman Anda tentang teknik mesin.</p>
+    </section>
+</body>
+</html>
